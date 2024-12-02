@@ -27,6 +27,7 @@ Enfim, escolhi uma voz padrão multilingual do D-ID e gerei o vídeo.
 
 ## 🚀 Resultado
 Aqui está o resultado do projeto: https://studio.d-id.com/share?id=f62c5ded52d40f42b6c251af63ac766d&utm_source=copy
+Link curto: https://bit.ly/LabDIONattyOrNot
 
 ## 💭 Reflexão (Opcional)
 Foi uma experiência muito gratificante produzir um conteúdo de qualidade, com ferramentas simples e muito eficazes.  
