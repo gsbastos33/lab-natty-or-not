@@ -2,7 +2,7 @@
 Humor com as IAs Generativas
 
 ## 📒 Descrição
-Criar conteúdo com IAs Generativas, combinando texto, áudio e vídeo.
+Criar conteúdo com IAs Generativas, combinando texto, áudio, imagens e vídeo.
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT
@@ -26,8 +26,8 @@ mas pedi para remover o fundo, que era uma parede de tijolos e depois eu inseri 
 Enfim, escolhi uma voz padrão multilingual do D-ID e gerei o vídeo. 
 
 ## 🚀 Resultado
-Aqui está o resultado do projeto: https://studio.d-id.com/share?id=56ae518b671e447cbdbe950d026931ef&utm_source=copy
+Aqui está o resultado do projeto: https://studio.d-id.com/share?id=f62c5ded52d40f42b6c251af63ac766d&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Foi uma experiência muito gratificante produzir um conteúdo de qualidade com ferramentas simples e muito eficazes.  
+Foi uma experiência muito gratificante produzir um conteúdo de qualidade, com ferramentas simples e muito eficazes.  
 
